@@ -7,7 +7,7 @@ const ContactButton = () => {
       bg-transparent text-black overflow-hidden w-[110px] hover:w-[150px] hover:bg-black hover:text-white"
     >
       <span className="text-lg font-medium whitespace-nowrap transition-all duration-300">
-        Let's Talk
+        Let`&apos;`s Talk
       </span>
 
       <div
